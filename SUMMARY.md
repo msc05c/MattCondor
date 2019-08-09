@@ -1,6 +1,6 @@
 # Table of contents
 
-* [mattcondor](README.md)
+* [About](README.md)
 * [Resume](resume.md)
 
 ## Reading

@@ -1,8 +1,10 @@
-# mattcondor
+---
+description: Matthew Condor Professional Development Site
+---
 
-Matthew Condor Professional Developement Site
+# About
 
-This site is intented to show the professional development of Matthew Condor as a application developer.
+This site provides information about Matt Condor as a professional software developer. 
 
 The site will feature contact, resume, blog, and other information about professional development.
 
