@@ -26,6 +26,7 @@
   * [Atomic Habits](inspiration/books/atomic-habits.md)
   * [Clean Code](inspiration/books/clean-code.md)
 * [Articles](inspiration/articles/README.md)
+  * [This is the one skill that all great leaders have](inspiration/articles/this-is-the-one-skill-that-all-great-leaders-have.md)
   * [How do You Pay Back Your Relationship Debt?](inspiration/articles/how-do-you-pay-back-your-relationship-debt.md)
   * [What I learned about myself from writing a Manager README](inspiration/articles/what-i-learned-about-myself-from-writing-a-manager-readme.md)
   * [Global Query Filters for Interfaces](inspiration/articles/global-query-filters-for-interfaces.md)
