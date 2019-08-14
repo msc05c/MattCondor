@@ -1,4 +1,4 @@
 # Articles
 
-These are articles for that I have found useful in personal and professional development.
+Here are the top ten articles that I have read in in the recent past that focus on topics of personal and professional development. 
 

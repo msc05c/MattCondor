@@ -1,4 +1,4 @@
 # Books
 
-These are books that I have read that I have found beneficial personally and professionally.
+Contained here are my current top three books that I have found impactful in my personal and professional development. 
 
